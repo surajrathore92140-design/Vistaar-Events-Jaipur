@@ -1,0 +1,13 @@
+{
+  "name": "vistaar-events-jaipur",
+  "version": "1.0.0",
+  "description": "Vistaar Events - Luxury Event Management in Jaipur",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
